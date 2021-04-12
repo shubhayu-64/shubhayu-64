@@ -10,13 +10,6 @@ Languages = ["Python", "C++", "C", "HTML", "CSS"]
 </div>
 
 ### Connect with me:
-<div>
-<a href="https://twitter.com/shubhayu64"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" width="30px"></a> 
-
-[![@shubhayu64 twitter](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg)](https://twitter.com/shubhayu64)<br>
-[![Shubhayu Majumdar | LinkedIn](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg](https://www.linkedin.com/in/shubhayumajumdar/)<br>
-[![shubhayu.majumdar | Instagram](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg)(https://www.instagram.com/shubhayu.majumdar/)<br>
-</div>
 
 <!--
 **shubhayu-64/shubhayu-64** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
