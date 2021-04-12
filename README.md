@@ -10,9 +10,8 @@ Languages = ["Python", "C++", "C", "HTML", "CSS"]
 </div>
 
 ### Connect with me:
-<br>
-<div align=center>
-<a href="https://twitter.com/shubhayu64"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg"> </a> 
+<div>
+<a href="https://twitter.com/shubhayu64"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" width="30px"></a> 
 
 [![@shubhayu64 twitter](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg)](https://twitter.com/shubhayu64)<br>
 [![Shubhayu Majumdar | LinkedIn](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg](https://www.linkedin.com/in/shubhayumajumdar/)<br>
