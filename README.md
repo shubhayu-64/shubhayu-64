@@ -12,9 +12,9 @@ Languages = ["Python", "C++", "C", "HTML", "CSS"]
 </div>
 ### Connect with me:
 <div align=center>
-[<img alt="shubhayu64 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />]["https://twitter.com/shubhayu64"]
-[<img alt="Shubhayu Majumdar | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />]["https://www.linkedin.com/in/shubhayumajumdar/"]
-[<img alt="shubhayu.majumdar | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />]["https://www.instagram.com/shubhayu.majumdar/"]
+[![@shubhayu64 twitter](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg)](https://twitter.com/shubhayu64)
+[![Shubhayu Majumdar | LinkedIn](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg](https://www.linkedin.com/in/shubhayumajumdar/)
+[![shubhayu.majumdar | Instagram](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg)(https://www.instagram.com/shubhayu.majumdar/)
 </div>
 
 <!--
