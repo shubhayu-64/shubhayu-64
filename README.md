@@ -19,6 +19,11 @@ Languages = ["Python", "C++", "C", "HTML", "CSS"]
 <a href="https://www.instagram.com/shubhayu.majumdar/" alt="shubhayu.majumdar | Instagram"><img src="/images/instagram.svg" width=22px ></a> &nbsp;&nbsp;&nbsp;&nbsp;
 </div>
 
+### Github Stats:
+<div align=left>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shubhayu-64&show_icons=true&theme=dark)](https://github.com/shubhayu-64)
+</div>
 <!--
 **shubhayu-64/shubhayu-64** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
