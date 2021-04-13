@@ -31,13 +31,13 @@ Languages = ["Python", "C++", "C", "HTML", "CSS"]
 
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" title="HTML" height=50 width=55>
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" title="CSS" height=50 width=55>
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" title="C" height=50 width=55>
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c++/c++.png" title="C++" height=50 width=55>
-<img src="/images/python.svg" title="Python" height=50 width=55>
-<img src="/images/mongodb.svg" title="MongoDB" height=50 width=55>
-<img src="/images/linux.svg" title="Linux" height=50 width=55>
-<img src="/images/github.svg" title="Github" height=50 width=55>
-<img src="/images/visualstudiocode.svg" title="Visual Studio Code" height=50 width=55>
+<img src="https://img.icons8.com/color/50/000000/c-programming.png" title="C" height=50 width=55>
+<img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" title="C++" height=50 width=55>
+<img src="https://img.icons8.com/color/48/000000/python.png" title="Python" height=50 width=55>
+<img src="https://img.icons8.com/color/48/000000/mongodb.png" title="MongoDB" height=50 width=55>
+<img src="https://img.icons8.com/color/48/000000/linux.png" title="Linux" height=50 width=55>
+<img src="https://img.icons8.com/color/48/000000/github--v1.png" title="Github" height=50 width=55>
+<img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" title="Visual Studio Code" height=50 width=55>
 </div>
 <!--
 **shubhayu-64/shubhayu-64** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
