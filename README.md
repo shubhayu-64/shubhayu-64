@@ -10,9 +10,13 @@ Languages = ["Python", "C++", "C", "HTML", "CSS"]
 [![coding speed x 1000](/images/tenor.gif)](https://github.com/shubhayu-64)
 </div>
 
+
+### Connect with me:
 <div align=left>
 
 <a href="https://twitter.com/shubhayu64" alt="@shubhayu64 twitter"><img src="/images/twitter.svg" width=22px ></a>
+<a href="https://www.linkedin.com/in/shubhayumajumdar/" alt="Shubhayu Majumdar | LinkedIn"><img src="/images/linkedin.svg" width=22px ></a>
+<a href="https://www.instagram.com/shubhayu.majumdar/" alt="shubhayu.majumdar | Instagram"><img src="/images/instagram.svg" width=22px ></a>
 </div>
 
 <!--
