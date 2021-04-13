@@ -23,7 +23,7 @@ Languages = ["Python", "C++", "C", "HTML", "CSS"]
 <div align=left>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shubhayu-64&layout=compact&theme=radical&show_icons=true)](https://github.com/shubhayu-64)&nbsp;
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shubhayu-64&show_icons=true&theme=radical)](https://github.com/shubhayu-64)
+[![Shubhayu's GitHub stats](https://github-readme-stats.vercel.app/api?username=shubhayu-64&show_icons=true&theme=radical)](https://github.com/shubhayu-64)
 </div>
 
 ### Tech Stack:
