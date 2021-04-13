@@ -14,9 +14,9 @@ Languages = ["Python", "C++", "C", "HTML", "CSS"]
 ### Connect with me:
 <div align=left>
 
-<a href="https://twitter.com/shubhayu64" alt="@shubhayu64 twitter"><img src="/images/twitter.svg" width=22px ></a>
-<a href="https://www.linkedin.com/in/shubhayumajumdar/" alt="Shubhayu Majumdar | LinkedIn"><img src="/images/linkedin.svg" width=22px ></a>
-<a href="https://www.instagram.com/shubhayu.majumdar/" alt="shubhayu.majumdar | Instagram"><img src="/images/instagram.svg" width=22px ></a>
+<a href="https://twitter.com/shubhayu64" alt="@shubhayu64 twitter"><img src="/images/twitter.svg" width=22px ></a> &nbsp;
+<a href="https://www.linkedin.com/in/shubhayumajumdar/" alt="Shubhayu Majumdar | LinkedIn"><img src="/images/linkedin.svg" width=22px ></a> &nbsp;
+<a href="https://www.instagram.com/shubhayu.majumdar/" alt="shubhayu.majumdar | Instagram"><img src="/images/instagram.svg" width=22px ></a> &nbsp;
 </div>
 
 <!--
