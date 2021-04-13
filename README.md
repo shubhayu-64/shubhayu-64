@@ -31,8 +31,8 @@ Languages = ["Python", "C++", "C", "HTML", "CSS"]
 
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" title="HTML" height=50 width=55>
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" title="CSS" height=50 width=55>
-<img src="/images/c.svg" title="C" height=50 width=55>
-<img src="/images/cplusplus.svg" title="C++" height=50 width=55>
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" title="C" height=50 width=55>
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c++/c++.png" title="C++" height=50 width=55>
 <img src="/images/python.svg" title="Python" height=50 width=55>
 <img src="/images/mongodb.svg" title="MongoDB" height=50 width=55>
 <img src="/images/linux.svg" title="Linux" height=50 width=55>
