@@ -9,6 +9,11 @@ Languages = ["Python", "C++", "C", "HTML", "CSS"]
   
 [![coding speed x 1000](/images/tenor.gif)](https://github.com/shubhayu-64)
 </div>
+
+<div align=left>
+
+[![@shubhayu64 twitter](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg)](https://twitter.com/shubhayu64)
+</div>
 <!--
 **shubhayu-64/shubhayu-64** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
