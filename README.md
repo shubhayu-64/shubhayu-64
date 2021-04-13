@@ -12,7 +12,7 @@ Languages = ["Python", "C++", "C", "HTML", "CSS"]
 
 <div align=left>
 
-[![@shubhayu64 twitter](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg)](https://twitter.com/shubhayu64)
+[![@shubhayu64 twitter](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg) width=22px](https://twitter.com/shubhayu64)
 </div>
 <!--
 **shubhayu-64/shubhayu-64** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
