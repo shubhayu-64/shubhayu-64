@@ -22,8 +22,8 @@ Languages = ["Python", "C++", "C", "HTML", "CSS"]
 ### Github Stats:
 <div align=left>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shubhayu-64&layout=compact&theme=dark)](https://github.com/shubhayu-64)&nbsp;
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shubhayu-64&show_icons=true&theme=dark)](https://github.com/shubhayu-64)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shubhayu-64&layout=compact&theme=radical)](https://github.com/shubhayu-64)&nbsp;
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shubhayu-64&show_icons=true&theme=radical)](https://github.com/shubhayu-64)
 </div>
 
 ### Tech Stack:
