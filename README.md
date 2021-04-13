@@ -25,6 +25,20 @@ Languages = ["Python", "C++", "C", "HTML", "CSS"]
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shubhayu-64&layout=compact&theme=dark)](https://github.com/shubhayu-64)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shubhayu-64&show_icons=true&theme=dark)](https://github.com/shubhayu-64)
 </div>
+
+### Tech Stack:
+<div align=center>  
+
+<img src="/images/html5.svg" title="HTML" height=50 width=55>
+<img src="/images/css3.svg" title="CSS" height=50 width=55>
+<img src="/images/c.svg" title="C" height=50 width=55>
+<img src="/images/cplusplus.svg" title="C++" height=50 width=55>
+<img src="/images/python.svg" title="Python" height=50 width=55>
+<img src="/images/mongodb.svg" title="MongoDB" height=50 width=55>
+<img src="/images/linux.svg" title="Linux" height=50 width=55>
+<img src="/images/github.svg" title="Github" height=50 width=55>
+<img src="/images/visualstudiocode.svg" title="Visual Studio Code" height=50 width=55>
+</div>
 <!--
 **shubhayu-64/shubhayu-64** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
