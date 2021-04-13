@@ -14,9 +14,9 @@ Languages = ["Python", "C++", "C", "HTML", "CSS"]
 ### Connect with me:
 <div align=left>
 
-<a href="https://twitter.com/shubhayu64" alt="@shubhayu64 twitter"><img src="https://img.icons8.com/color/48/000000/twitter--v1.png" ></a> &nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/shubhayumajumdar/" alt="Shubhayu Majumdar | LinkedIn"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png" ></a> &nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.instagram.com/shubhayu.majumdar/" alt="shubhayu.majumdar | Instagram"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png" ></a> &nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://twitter.com/shubhayu64" alt="@shubhayu64 twitter"><img src="https://img.icons8.com/color/48/000000/twitter--v1.png" ></a> &nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/shubhayumajumdar/" alt="Shubhayu Majumdar | LinkedIn"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png" ></a> &nbsp;&nbsp;
+<a href="https://www.instagram.com/shubhayu.majumdar/" alt="shubhayu.majumdar | Instagram"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" ></a> &nbsp;&nbsp;
 </div>
 
 ### Github Stats:
