@@ -2,7 +2,7 @@
 
 ```python
 Name = "Shubhayu Majumdar"
-Intrests = ["Programming", "Cybersecurity", "Swimming", "Musichead"]
+Interests = ["Programming", "Cybersecurity", "Swimming", "Musichead"]
 Languages = ["Python", "C++", "C", "HTML", "CSS"]
 ```
 <div align=center>
