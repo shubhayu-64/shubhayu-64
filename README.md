@@ -22,7 +22,7 @@ Languages = ["Python", "C++", "C", "HTML", "CSS"]
 ### Github Stats:
 <div align=left>
 
-&nbsp;&nbsp;&nbsp;[![GitHub Readme Views](https://komarev.com/ghpvc/?username=shubhayu-64&color=blue&style=flat&label=VIEWS)](https://github.com/shubhayu-64)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![GitHub Readme Views](https://komarev.com/ghpvc/?username=shubhayu-64&color=blue&style=flat&label=VIEWS)](https://github.com/shubhayu-64)
 </div>
 <div align=center>
 
