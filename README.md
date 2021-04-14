@@ -5,6 +5,10 @@ Name = "Shubhayu Majumdar"
 Interests = ["Programming", "Cybersecurity", "Swimming", "Musichead"]
 Languages = ["Python", "C++", "C", "HTML", "CSS"]
 ```
+<div align=left>
+
+[![GitHub Readme Views](https://komarev.com/ghpvc/?username=shubhayu-64&color=blue&style=flat&label=VIEWS)](https://github.com/shubhayu-64)
+</div>
 <div align=center>
   
 [![coding speed x 1000](/images/tenor.gif)](https://github.com/shubhayu-64)
@@ -20,10 +24,6 @@ Languages = ["Python", "C++", "C", "HTML", "CSS"]
 </div>
 
 ### Github Stats:
-<div align=left>
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![GitHub Readme Views](https://komarev.com/ghpvc/?username=shubhayu-64&color=blue&style=flat&label=VIEWS)](https://github.com/shubhayu-64)
-</div>
 <div align=center>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shubhayu-64&theme=radical&show_icons=true)](https://github.com/shubhayu-64)&nbsp;
