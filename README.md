@@ -5,9 +5,6 @@ Name = "Shubhayu Majumdar"
 Interests = ["Programming", "Cybersecurity", "Swimming", "Musichead"]
 Languages = ["Python", "C++", "C", "HTML", "CSS"]
 ```
-<div align=left>
-
-</div>
 <div align=center>
   
 [![coding speed x 1000](/images/tenor.gif)](https://github.com/shubhayu-64)
@@ -20,7 +17,6 @@ Languages = ["Python", "C++", "C", "HTML", "CSS"]
 <a href="https://twitter.com/shubhayu64" alt="@shubhayu64 twitter"><img src="https://img.icons8.com/color/48/000000/twitter--v1.png" ></a> &nbsp;
 <a href="https://www.linkedin.com/in/shubhayumajumdar/" alt="Shubhayu Majumdar | LinkedIn"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png" ></a> &nbsp;
 <a href="https://www.instagram.com/shubhayu.majumdar/" alt="shubhayu.majumdar | Instagram"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" ></a> &nbsp;
-[![GitHub Readme Views](https://komarev.com/ghpvc/?username=shubhayu-64&color=blue&style=flat&label=VIEWS)](https://github.com/shubhayu-64)
 </div>
 
 ### Github Stats:
