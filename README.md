@@ -22,13 +22,13 @@ Languages = ["Python", "C++", "C", "HTML", "CSS"]
 ### Github Stats:
 <div align=left>
 
-[![GitHub Readme Views](https://komarev.com/ghpvc/?username=shubhayu-64&color=blue&style=flat&label=VIEWS)](https://github.com/shubhayu-64)
+&nbsp;&nbsp;&nbsp;[![GitHub Readme Views](https://komarev.com/ghpvc/?username=shubhayu-64&color=blue&style=flat&label=VIEWS)](https://github.com/shubhayu-64)
 </div>
 <div align=center>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shubhayu-64&theme=radical&show_icons=true)](https://github.com/shubhayu-64)&nbsp;
 [![Shubhayu's GitHub stats](https://github-readme-stats.vercel.app/api?username=shubhayu-64&show_icons=true&theme=radical)](https://github.com/shubhayu-64)
-</div>
+</div>&nbsp;
 
 ### Tech Stack:
 <div align=center>  
