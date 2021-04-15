@@ -23,7 +23,7 @@ Languages = ["Python", "C++", "C", "HTML", "CSS"]
 <div align=center>
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=shubhayu-64&theme=merko&hide_border=true)](https://github.com/shubhayu-64)
-[![Shubhayu's GitHub stats](https://github-readme-stats.vercel.app/api?username=shubhayu-64&show_icons=true&theme=radical)](https://github.com/shubhayu-64)
+[![Shubhayu's GitHub stats](https://github-readme-stats.vercel.app/api?username=shubhayu-64&show_icons=true&theme=merko&hide_border=true)](https://github.com/shubhayu-64)
 </div>&nbsp;
 
 ### Tech Stack:
