@@ -24,7 +24,7 @@ Languages = ["Python", "C++", "C", "HTML", "CSS"]
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=shubhayu-64&theme=gruvbox&hide_border=true&fire=fcce00&ring=fcce00)](https://github.com/shubhayu-64)
 [![Shubhayu's GitHub stats](https://github-readme-stats.vercel.app/api?username=shubhayu-64&show_icons=true&theme=gruvbox&hide_border=true)](https://github.com/shubhayu-64)
-</div>&nbsp;
+</div>
 
 ### Tech Stack:
 <div align=center>  
