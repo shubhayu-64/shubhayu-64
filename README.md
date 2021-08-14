@@ -33,6 +33,7 @@ Languages = ["Python", "C++", "C", "HTML", "CSS"]
 <img src="https://img.icons8.com/color/50/000000/c-programming.png" title="C" >
 <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" title="C++" >
 <img src="https://img.icons8.com/color/48/000000/python.png" title="Python" >
+<img src="./images/fastapi.png" title="FastAPI" >
 <img src="https://img.icons8.com/color/48/000000/mongodb.png" title="MongoDB" >
 <img src="https://img.icons8.com/color/48/000000/linux.png" title="Linux" >
 <img src="https://img.icons8.com/color/48/000000/github--v1.png" title="Github" >
