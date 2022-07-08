@@ -33,8 +33,8 @@ Languages = ["Python", "C++", "C", "HTML", "CSS"]
 <img src="https://img.icons8.com/color/50/000000/c-programming.png" title="C" >
 <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" title="C++" >
 <img src="https://img.icons8.com/color/48/000000/python.png" title="Python" >
-<img src="https://img.icons8.com/color/344/flutter.png" title="Flutter" >
-<img src="https://img.icons8.com/color/344/tensorflow.png" title="Tensorflow" >
+<img src="https://img.icons8.com/color/344/flutter.png" title="Flutter" height=50 width=50>
+<img src="https://img.icons8.com/color/344/tensorflow.png" title="Tensorflow" height=50 width=50>
 <img src="./images/fastapi.png" title="FastAPI" height=50 width=50>
 <img src="https://img.icons8.com/color/48/000000/mongodb.png" title="MongoDB" >
 <img src="https://img.icons8.com/color/48/000000/linux.png" title="Linux" >
