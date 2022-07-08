@@ -35,6 +35,7 @@ Languages = ["Python", "C++", "C", "HTML", "CSS"]
 <img src="https://img.icons8.com/color/48/000000/python.png" title="Python" >
 <img src="https://img.icons8.com/color/344/flutter.png" title="Flutter" height=50 width=50>
 <img src="https://img.icons8.com/color/344/tensorflow.png" title="Tensorflow" height=50 width=50>
+<img src="https://s3.us-east-2.amazonaws.com/aiworkbox/technology-images/pytorch_logo_200x200.png" title="Pytorch" height=50 width=50>
 <img src="./images/fastapi.png" title="FastAPI" height=50 width=50>
 <img src="https://img.icons8.com/color/48/000000/mongodb.png" title="MongoDB" >
 <img src="https://img.icons8.com/color/48/000000/linux.png" title="Linux" >
